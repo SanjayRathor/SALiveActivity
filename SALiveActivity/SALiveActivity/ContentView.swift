@@ -23,4 +23,3 @@ struct ContentView: View {
     ContentView()
 }
 
-//Changes only check for git status
