@@ -6,4 +6,3 @@
 //
 
 import Foundation
-    // This login screen has done only for the feature branch ...
